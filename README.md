@@ -16,3 +16,7 @@ Bem-vindo ao Zanda, o seu controle remoto de PC com funcionalidades avançadas e
 👥 Suporte DESKTOP/ANDROID.
 
 💬 CSS de Greeva theme by Coderthemes 
+
+
+# Prints
+![Painel Login](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/login.PNG)
