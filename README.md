@@ -1,6 +1,8 @@
 # Zanda
 
 
+<h1>PT-BR</h1>
+
 🖥️🔒 Zanda: Controle Remoto de PC Seguro 🔒🖥️
 
 Bem-vindo ao Zanda, o seu controle remoto de PC com funcionalidades avançadas e segurança! Aqui estão algumas das nossas incríveis funcionalidades:
@@ -15,8 +17,23 @@ Bem-vindo ao Zanda, o seu controle remoto de PC com funcionalidades avançadas e
 
 👥 Suporte DESKTOP/ANDROID.
 
-💬 CSS de Greeva theme by Coderthemes 
+<h1>EN-US</h1>
 
+🖥️🔒 Zanda: Secure PC Remote Control 🔒🖥️
+
+Welcome to Zanda, your PC remote control with advanced features and security! Here are some of our amazing features:
+
+🔐 Safe and Secure Login: Access your PC securely with our login system.
+
+🚫 No Database Required: Zanda eliminates the need for a database, providing a lightweight and efficient experience. Control your PC without the hassle of database settings.
+
+🔑 Single KEY site as changes can be made to index.php.
+
+🔄 Total PC Control: Restart, shutdown, lock and control other features of your PC from anywhere. With Zanda, you have complete control over your system, wherever you are.
+
+👥Support DESKTOP/ANDROID.
+
+💬 Greeva CSS Theme by Coderthemes
 
 # Prints
 Aviso Legal:
