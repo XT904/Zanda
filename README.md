@@ -35,5 +35,5 @@ Welcome to Zanda, your PC remote control with advanced features and security! He
 
 
 # Prints
-![Painel Login](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/painel.PNG)
-![Android Painel](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/login.PNG)
+![Painel Login](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/painel.png)
+![Android Painel](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/login.png)
