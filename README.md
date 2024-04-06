@@ -33,12 +33,7 @@ Welcome to Zanda, your PC remote control with advanced features and security! He
 
 👥Support DESKTOP/ANDROID.
 
-💬 Greeva CSS Theme by Coderthemes
 
 # Prints
-Aviso Legal:
-Este código visual de CSS, ou qualquer parte dele, não é de minha autoria. Este código está sendo utilizado apenas para fins educacionais e de demonstração, a fim de ilustrar conceitos de design e desenvolvimento web. Nenhuma infração de direitos autorais é intencional. Se você é o proprietário legítimo deste código e deseja que ele seja removido, entre em contato conosco e tomaremos as medidas apropriadas. Agradecemos a compreensão.
-
-![Painel Login](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/login.PNG)
-![Android Painel](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/android.PNG)
-![Desktop Painel](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/desktop.PNG)
+![Painel Login](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/painel.PNG)
+![Android Painel](https://raw.githubusercontent.com/XT904/Zanda/main/imagens/login.PNG)
