@@ -1,0 +1,167 @@
+/* Importe a fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Aplique a fonte aos elementos desejados */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #323a46;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-panel {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background-color: #323a46;
+    text-align: center;
+}
+
+.logo-container {
+    margin-bottom: 20px;
+}
+
+.logo {
+    font-size: 2.5rem;
+    color: #31ce77;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #323a46;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #31ce77;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #28ad60;
+}
+
+
+.ani-logo {
+  color: transparent;
+  background-image: linear-gradient(to right, #323a46, #31ce77);
+  -webkit-background-clip: text;
+  background-clip: text;    
+  background-size: 200%;
+  background-position: -200%;
+  animation: animated-gradient 2s infinite alternate-reverse;      
+}
+
+@keyframes animated-gradient {
+  to {
+    background-position: 200%;
+  }
+}
+
+
+.container {
+    max-width: 400px;
+    padding: 20px;
+}
+
+/* Estilos para o input */
+input[type="text"],
+input[type="password"] {
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #323a46;
+    color: #fff;
+    font-size: 16px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    /* Adiciona uma sombra sutil */
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2); /* Tonalidade do body */
+}
+
+/* Estilos quando em foco */
+input[type="text"]:focus,
+input[type="password"]:focus {
+    transform: translateY(-3px);
+    box-shadow: 0 0 10px rgba(49, 206, 119, 0.5);
+    outline: none;
+}
+
+/* Placeholder */
+input[type="text"]::placeholder,
+input[type="password"]::placeholder {
+    color: #9ea7b8;
+}
+
+
+.menu-icon {
+    display: inline-block;
+    transition: transform 0.3s ease; /* Transição suave */
+}
+
+.menu-icon:hover {
+    transform: scale(1.1); /* Aumenta o tamanho quando o mouse está em cima */
+}
+
+.menu-icon:active {
+    transform: scale(0.9); /* Diminui o tamanho quando clicado */
+}
+
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    animation-duration: 0.5s;
+}
+
+.alert-success {
+    color: #323a46;
+    background-color: #31ce77;
+    border: 1px solid #31ce77;
+    animation-name: fadeInSuccess;
+}
+
+.alert-error {
+    color: red;
+    animation-name: fadeInError;
+}
+
+
+
+@keyframes fadeInSuccess {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInError {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
